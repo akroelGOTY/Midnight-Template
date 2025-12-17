@@ -1,0 +1,29 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.container h1 {
+    color: rgb(0, 0, 0);
+    font-style: italic;
+    font-weight: 100;
+    font-size: 40px;
+}
+
+.container p {
+    font-size: 20px;
+    font-style: italic;
+    font-weight: 400;
+}
+
+.card-icons {
+    margin-top: 20px;
+    width: 800px;
+    background-color: var(--bg-icon);
+    border: 1px solid var(--bg-icon-border);
+    box-shadow: 0 0 10px rgb(68, 68, 68);
+    border-radius: 12px;
+}

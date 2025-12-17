@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: monospace;
+}
+
+body {
+    height: 100vh;
+    background: linear-gradient(135deg,#91EAE4,#D57F80);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+:root {
+    --bg-icon-border: #6b6b6b;
+    --bg-icon: #fff;
+}
