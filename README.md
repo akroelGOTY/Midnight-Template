@@ -15,6 +15,5 @@
 
 - **Icons** prontos
 - **Badges** coloridas (Bug, Feature, Circle, etc)
-- **Labels** e contadores de reações (likes, comments, notificações)
 - **Inputs** e botões estilizados
 - Layout responsivo e fácil de extender
