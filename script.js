@@ -1,3 +1,0 @@
-function baixar() {
-    //codigo aqui
-}
